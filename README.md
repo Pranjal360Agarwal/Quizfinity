@@ -114,3 +114,6 @@ npm start
 • Receive instant feedback on your performance.
 
 • Enjoy learning and challenging yourself with various quizzes!
+
+
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
