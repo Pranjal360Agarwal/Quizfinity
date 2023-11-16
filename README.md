@@ -1,2 +1,4 @@
 # Quizfinity
-A quiz generation utility using reactjs.
+
+
+Welcome to Quizfinity, a fun and interactive quiz application built using ReactJS!
