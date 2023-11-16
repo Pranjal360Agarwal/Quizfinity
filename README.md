@@ -67,3 +67,39 @@ git push -u origin <your_branch_name>
 8. Create a Pull Request.
 
 9. Congratulations! 🎉 you've made your contribution.
+
+
+
+## Installation⚡
+
+0. Star ⭐
+
+1. Fork
+
+2. Clone the forked repository.
+
+```css
+git clone https://github.com/<your-github-username>/Quizfinity
+```
+
+3. Navigate to the project directory.
+
+```py
+cd Quizfinity
+```
+
+4. Install dependencies:
+
+```css
+npm install
+```
+
+5. Make changes.
+
+6. Start the development server:
+
+```css
+npm start
+```
+
+7. Open your browser and visit http://localhost:3000 to view the app.
