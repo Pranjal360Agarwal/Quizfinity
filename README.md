@@ -103,3 +103,14 @@ npm start
 ```
 
 7. Open your browser and visit http://localhost:3000 to view the app.
+
+
+## Usage
+
+• Select a quiz category from the menu.
+
+• Answer the questions displayed.
+
+• Receive instant feedback on your performance.
+
+• Enjoy learning and challenging yourself with various quizzes!
