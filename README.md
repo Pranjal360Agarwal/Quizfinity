@@ -15,3 +15,10 @@ Quizfinity is a web-based application that allows users to participate in variou
 - User-friendly interface for seamless quiz navigation.
 - Real-time scoring and feedback.
 - Responsive design for a smooth experience on all devices.
+
+
+## Technologies Used
+
+- ReactJS
+- JavaScript
+- HTML/CSS
