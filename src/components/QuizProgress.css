@@ -1,0 +1,9 @@
+.QuizProgress {
+  height: 10px;
+  background-color: #ebf567;
+}
+
+.QuizProgress>div {
+  height: 100%;
+  background-color: #b4bf1f;
+}

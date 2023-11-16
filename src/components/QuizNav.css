@@ -1,0 +1,35 @@
+.QuizNav {
+  margin: 5px 0;
+  height: 50px;
+}
+
+.QuizNav button {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  font-weight: 700;
+  background-color: #d9ff4b;
+  border: none;
+  font-size: inherit;
+  color: inherit;
+  padding: 5px 15px;
+  margin: 0 auto;
+  opacity: 0.8;
+  outline: none;
+  display: block;
+}
+
+.QuizNav button:hover {
+  opacity: 1;
+}
+
+.QuizNav button.align-center {
+  display: block;
+}
+
+.QuizNav button.align-left {
+  display: inline-block;
+}
+
+.QuizNav button.align-right {
+  display: block;
+  float: right;
+}
